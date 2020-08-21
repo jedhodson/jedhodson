@@ -15,14 +15,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a egestas ipsum, 
 <p><img src="https://github.com/jedhodson/jedhodson/raw/master/image-or-two/scatterlabs_blue.png" align="left" width=200 style="padding: 0 20px"></p>
 
 ### Scatter Labs
-[Scatter Labs](scatterlabs.com.au) is an itsy-bitsy engineering company working on bringing dreams and ideas to reality. Be it a device to help the masses or a thingamajig just for fun, Scatter Labs can help research, design, build and manufacture it. Its a way to keep busy and work on cool things. 
+[Scatter Labs](https://scatterlabs.com.au) is an itsy-bitsy engineering company working on bringing dreams and ideas to reality. Be it a device to help the masses or a thingamajig just for fun, Scatter Labs can help research, design, build and manufacture it. Its a way to keep busy and work on cool things. 
 
 
 
 <p><img src="https://github.com/jedhodson/jedhodson/raw/master/image-or-two/prototypingcorner_focus.JPG" align="right" width=200 style="padding: 0 20px" /></p>
 
 ### Prototyping Corner
-Just a bunch of prototypes. Over at [prototypingcorner.io](prototypingcorner.io) you'll find the latest thingamajig that I've built and if I wasn't too lazy maybe event a writeup on how I did it. Its an assortment of things from data-loggers to localization systems, drones to robots that roll. If the thingamajig got a little polish it finds its way into the [Tindie Store](https://www.tindie.com/stores/prototyping-corner/) for all to enjoy - oh and everything there is completely [open source]().
+Just a bunch of prototypes. Over at [prototypingcorner.io](https://prototypingcorner.io) you'll find the latest thingamajig that I've built and if I wasn't too lazy maybe event a writeup on how I did it. Its an assortment of things from data-loggers to localization systems, drones to robots that roll. If the thingamajig got a little polish it finds its way into the [Tindie Store](https://www.tindie.com/stores/prototyping-corner/) for all to enjoy - oh and everything there is completely [open source](https://github.com/prototyping-corner).
 
 
 ## Stat or two, ~~a kangaroo~~
