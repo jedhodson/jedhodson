@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a egestas ipsum, 
 <p><img src="https://github.com/jedhodson/jedhodson/raw/master/image-or-two/scatterlabs_blue.png" align="left" width=200 style="padding: 0 20px"></p>
 
 ### Scatter Labs
-[Scatter Labs](scatterlabs.com.au) is an itsy-bitsy engineering company working on bringing dreams and ideas to reality. Be it a device to help the masses or a thingamajig just for fun, we can help research, design, build and manufacture it. Its a way to keep busy and work on cool things. 
+[Scatter Labs](scatterlabs.com.au) is an itsy-bitsy engineering company working on bringing dreams and ideas to reality. Be it a device to help the masses or a thingamajig just for fun, Scatter Labs can help research, design, build and manufacture it. Its a way to keep busy and work on cool things. 
 
 
 
