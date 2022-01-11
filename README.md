@@ -12,13 +12,6 @@ I like to build things or pieces of things at the very least. Be it a electronic
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a egestas ipsum, sit amet tempus urna. Pellentesque ac ultrices turpis. Proin ac cursus mauris. Ut non sem libero. Donec gravida fermentum arcu ac laoreet. Donec vel efficitur quam. Curabitur ac sodales diam, sed ullamcorper justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed et risus ex. 
 
 ## ⚡ Other places I exist
-<p><img src="https://github.com/jedhodson/jedhodson/raw/master/image-or-two/scatterlabs_blue.png" align="left" width=200 style="padding: 0 20px"></p>
-
-### Scatter Labs
-[Scatter Labs](https://scatterlabs.com.au) is an itsy-bitsy engineering company working on bringing dreams and ideas to reality. Be it a device to help the masses or a thingamajig just for fun, Scatter Labs can help research, design, build and manufacture it. Its a way to keep busy and work on cool things. 
-
-
-
 <p><img src="https://github.com/jedhodson/jedhodson/raw/master/image-or-two/prototypingcorner_focus.JPG" align="right" width=200 style="padding: 0 20px" /></p>
 
 ### Prototyping Corner
